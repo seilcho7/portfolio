@@ -40,7 +40,6 @@
   display: none; }
 
 .mfp-content {
-  overflow: hidden;
   position: relative;
   display: inline-block;
   vertical-align: middle;
